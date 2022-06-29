@@ -1,4 +1,4 @@
-# Face-Recognition-on-Heroku
+# Face-Recognition-on-Flask-Server
 A face Recognition system on Flask server python.
 <br>
 # Overview
