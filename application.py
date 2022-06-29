@@ -33,7 +33,7 @@ app = Flask(__name__)
 
 
 # Configure the one-shot learning siamese model
-model = tf.keras.models.load_model('siamesemodel.h5', custom_objects={'L1Dist':L1Dist})
+model = tf.keras.models.load_model('./siamesemodel.h5', custom_objects={'L1Dist':L1Dist})
 
 
 
